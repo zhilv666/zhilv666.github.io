@@ -1,11 +1,11 @@
 {
   "version": "0.1.1",
-  "pub_date": "2024-09-18T12:29:53+01:00",
+  "notes": "添加自动更新，任务类型从填写改为选项",
+  "pub_date": "2025-05-09T03:19:04.233Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "http://114.117.180.54:5244/d/localStorage/demo/gxymanger_0.1.1_x64-setup.exe?sign=yc10Pefg3pp6eL8CckrnPm03H4Ot4AQPjld2-h8CjCE=:0",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcStBS2RKZWFLemtVZUx4UlZVMnU1dy9ycVg2eE1aN0U2aWFuSW8vTzFKTkxNL2NmSE5VVWhDd2M1RS9HZEVxMHQ0NTJXSS9PL1lBbHFyTWZiRjZ3MmJiTGFZZWJZNHdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ2NzgyNDYwCWZpbGU6Z3h5bWFuZ2VyXzAuMS4xX3g2NC1zZXR1cC5leGUKeDRVK2FRMGFZOEJiV2piZmFrZVV3dlN6UzJja3VINXpBWElJZVRSZ2ZoT3AvMlBWNWlCZ25ITkN0ZTJzcGwzRkZtVFlSdThNUlM1YzRkT0FKYTIrQXc9PQo="
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcStBS2RKZWFLenR5Zjl1ZUNvUkFJdGZ5Y0RtUzZ6RDY0MktOcU5kU2k0dkFqbVpId0tVcVZwa3RyVlVDbmFUTndvdEtYQzZzWWlXekEweTRxY2crT1BqYXVRdW9pc0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTM0Mjk4CWZpbGU6Z3h5bWFuZ2VyXzAuMS4xX3g2NC1zZXR1cC5leGUKOTVhUmtERUxabmh0RlJHa0c0dEpHZ2piQ0kxVTl5Z3RpanJtOG1rNGF2S3BQeGpjOXNXOFMyYnBzQk45dERIV0N2czJGM3crZmdKUDN6emZlTnhNQ3c9PQo=",
+      "url": "http://114.117.180.54:5244/d/localStorage/demo/gxymanger_0.1.1_x64-setup.exe?sign=yc10Pefg3pp6eL8CckrnPm03H4Ot4AQPjld2-h8CjCE=:0"
     }
-  },
-  "notes": "!可以更新了！"
+  }
 }
