@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "添加自动更新，任务类型从填写改为选项",
-  "pub_date": "2025-05-09T03:19:04.233Z",
+  "version": "0.1.2",
+  "notes": "【feat】添加单例模式; 一次只能启动一个程序",
+  "pub_date": "2025-06-05T14:21:04.233Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcStBS2RKZWFLenR5Zjl1ZUNvUkFJdGZ5Y0RtUzZ6RDY0MktOcU5kU2k0dkFqbVpId0tVcVZwa3RyVlVDbmFUTndvdEtYQzZzWWlXekEweTRxY2crT1BqYXVRdW9pc0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ4OTM0Mjk4CWZpbGU6Z3h5bWFuZ2VyXzAuMS4xX3g2NC1zZXR1cC5leGUKOTVhUmtERUxabmh0RlJHa0c0dEpHZ2piQ0kxVTl5Z3RpanJtOG1rNGF2S3BQeGpjOXNXOFMyYnBzQk45dERIV0N2czJGM3crZmdKUDN6emZlTnhNQ3c9PQo=",
-      "url": "http://114.117.180.54:5244/d/localStorage/demo/gxymanger_0.1.1_x64-setup.exe?sign=yc10Pefg3pp6eL8CckrnPm03H4Ot4AQPjld2-h8CjCE=:0"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcStBS2RKZWFLenE4NERLQUtWa0ZqaDdxZ3VRMEpzbE5MWGw4V1RoeE9LTytQdHRjWjF1T2pKMFMzeUN1WFdLdXE1OGlCS1lnSitiMlFwYnhHelFSTE9zc09MWXRMbWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5MTA1MzEyCWZpbGU6Z3h5bWFuZ2VyXzAuMS4yX3g2NC1zZXR1cC5leGUKdlhsMjBoUnNPMXgwUGdzSjlJVzJnNE5yY1NXNEdGQ3dwL2xtc2QrdzdJTFIrTk1vckxoeDdCY0pnRUpxcU96cnZ0NlRLTVVrZ1dVbUJKVEZ4bGI4QUE9PQo=",
+      "url": "http://114.117.180.54:5244/d/localStorage/demo/gxymanger_0.1.2_x64-setup.exe?sign=5O4bEogB0JrpnWbj0hBnjeQdAHst82O7hO2WSWSYttg=:0"
     }
   }
 }
